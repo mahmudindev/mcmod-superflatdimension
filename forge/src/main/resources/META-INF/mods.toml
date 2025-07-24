@@ -1,0 +1,42 @@
+modLoader = "javafml"
+loaderVersion = "[47,)"
+issueTrackerURL = "https://github.com/mahmudindev/mcmod-superflatdimension/issues"
+license = "ARR"
+
+[[mods]]
+modId = "superflatdimension"
+version = "${version}"
+displayName = "Superflat Dimension"
+authors = "mahmudindev"
+description = '''
+Add superflat as separate dimension.
+'''
+logoFile = "assets/superflatdimension/icon.png"
+
+[[dependencies.superflatdimension]]
+modId = "forge"
+mandatory = true
+versionRange = "[47,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.superflatdimension]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.superflatdimension]]
+modId = "dimensionfixer"
+mandatory = true
+versionRange = "[0.0.9,)"
+ordering = "NONE"
+side = "SERVER"
+
+[[dependencies.superflatdimension]]
+modId = "worldportal"
+mandatory = true
+versionRange = "[0.0.9,)"
+ordering = "NONE"
+side = "SERVER"

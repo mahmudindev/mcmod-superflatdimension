@@ -9,7 +9,7 @@ version = "${version}"
 displayName = "Superflat Dimension"
 authors = "mahmudindev"
 description = '''
-Add superflat as separate dimension.
+Add superflat world type as separate dimension.
 '''
 logoFile = "assets/superflatdimension/icon.png"
 

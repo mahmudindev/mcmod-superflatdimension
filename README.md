@@ -1,3 +1,3 @@
 # Superflat Dimension
 
-Minecraft mod to add superflat as separate dimension.
+Minecraft mod to add superflat world type as separate dimension.

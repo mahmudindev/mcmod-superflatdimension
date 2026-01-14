@@ -3,7 +3,7 @@
   "id": "superflatdimension",
   "version": "${version}",
   "name": "Superflat Dimension",
-  "description": "Add superflat as separate dimension.",
+  "description": "Add superflat world type as separate dimension.",
   "authors": [
     "mahmudindev"
   ],
